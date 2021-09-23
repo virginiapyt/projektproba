@@ -1,0 +1,2 @@
+rootProject.name = "zmiana koloru"
+include ':app'
